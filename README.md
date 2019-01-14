@@ -83,3 +83,8 @@ chmod +x install.sh && ./install.sh
 * For Whois
 `reconwolf -w site.com` (or)
 `reconwolf --whois=site.com`
+
+## License
+
+ReconWolf is licensed under the
+**MIT License**
