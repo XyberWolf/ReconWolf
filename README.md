@@ -83,6 +83,9 @@ chmod +x install.sh && ./install.sh
 * For Whois
 `reconwolf -w site.com` (or)
 `reconwolf --whois=site.com`
+## ScreenShot
+<h1 align="center">
+<a href="https://ibb.co/5G4XmJD"><img src="https://i.ibb.co/sbRpnXS/Screenshot-8-2.png" alt="Screenshot" border="0" ></a>
 
 ## License
 
